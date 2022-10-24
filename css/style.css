@@ -1,0 +1,13 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+#paragraph-3,
+#paragraph-4,
+#paragraph-5 {
+    background-color: blue;
+}
+.opacity {
+    background-color: rgba(255, 0, 0, 0.5);
+}
